@@ -10735,3 +10735,11 @@
                 "id": 43825
             },
             "bid": 10000,
+            "buyout": 74050,
+            "quantity": 5,
+            "time_left": "VERY_LONG"
+        }
+    ],
+    "id": 2,
+    "name": "Alliance Auction House"
+}
